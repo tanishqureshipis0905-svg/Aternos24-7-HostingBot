@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "NovaXD121.aternos.me:24612",
+    "port": 24612,
     "version": "",
     "try-creative": false
   },
